@@ -1,0 +1,2 @@
+# assets
+Novelworx digital assets
